@@ -1,5 +1,5 @@
-
-dule of the function add """
+#!/usr/bin/env python3
+""" Module of the function add """
 
 
 def add(a: float, b: float) -> float:
